@@ -1,0 +1,5 @@
+# ignore the following files once created
+
+# ignore all build and archive files
+*.[oa]
+
