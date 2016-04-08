@@ -3,3 +3,5 @@
 # ignore all build and archive files
 *.[oa]
 
+# ignore all temporary files
+*~
